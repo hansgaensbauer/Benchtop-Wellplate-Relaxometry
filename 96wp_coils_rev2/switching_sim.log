@@ -1,0 +1,20 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\hansg\Documents\MIT\Hanlab\96WP\WellPlate\96wp_coils_rev2\switching_sim.asc
+Start Time: Mon Nov 25 18:27:24 2024
+solver = Normal
+Maximum thread count: 8
+
+
+
+WARNING: Node N008 is floating.
+WARNING: Node N013 is floating.
+
+WARNING: Less than two connections to node nc_01.  This node is used by r4.
+Direct Newton iteration for .op point succeeded.
+.step vsw=0
+tnom = 27
+temp = 27
+method = modified trap
+.step vsw=5
+Total elapsed time: 1.070 seconds.
+

@@ -1,0 +1,21 @@
+01-16 19:42:39 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 392:Plugin executed on: 'win32'
+01-16 19:42:39 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 393:Plugin executed with python version: '3.11.5 (main, Aug 14 2024, 05:26:19) [MSC v.1939 64 bit (AMD64)]'
+01-16 19:42:39 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 394:KiCad build version: 8.0.5
+01-16 19:42:39 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 395:Plugin version: 3.0.3
+01-16 19:42:39 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 396:Frame repr: <wx._core.Frame object at 0x0000017271F604C0>
+01-16 19:42:39 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 420:Preparing replicator with J6 as a reference
+01-16 19:42:39 com_github_MitjaNemec_ReplicateLayout.replicate_layout 117:getting a list of all footprints on board
+01-16 19:42:39 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 468:source anchor footprint is 'J6'
+Located on: ['Tune-Switch']
+With filenames: ['tune_switch.kicad_sch']
+With sheet_id:['Tune-Switch']
+01-16 19:42:39 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 475:Corresponding footprints are 
+[('J12', ['Tune-Switch6']), ('J19', ['Tune-Switch13']), ('J21', ['Tune-Switch15']), ('J16', ['Tune-Switch10']), ('J9', ['Tune-Switch3']), ('J11', ['Tune-Switch5']), ('J10', ['Tune-Switch4']), ('J7', ['Tune-Switch1']), ('J17', ['Tune-Switch11']), ('J20', ['Tune-Switch14']), ('J8', ['Tune-Switch2']), ('J15', ['Tune-Switch9']), ('J13', ['Tune-Switch7']), ('J6', ['Tune-Switch']), ('J14', ['Tune-Switch8']), ('J18', ['Tune-Switch12'])]
+01-16 19:42:39 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 487:Showing dialog
+01-16 19:42:39 com_github_MitjaNemec_ReplicateLayout.replicate_layout 472:constructing a list of sheets suitable for replication on level:'Tune-Switch', file:'tune_switch.kicad_sch'
+01-16 19:42:39 com_github_MitjaNemec_ReplicateLayout.replicate_layout 509:suitable sheets are:[['Tune-Switch1'], ['Tune-Switch10'], ['Tune-Switch11'], ['Tune-Switch12'], ['Tune-Switch13'], ['Tune-Switch14'], ['Tune-Switch15'], ['Tune-Switch2'], ['Tune-Switch3'], ['Tune-Switch4'], ['Tune-Switch5'], ['Tune-Switch6'], ['Tune-Switch7'], ['Tune-Switch8'], ['Tune-Switch9']]
+01-16 19:42:39 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1507:Level selected: ['Tune-Switch']
+01-16 19:42:39 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1331:Filtering list of tracks
+01-16 19:42:39 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 493:Toolbar position: wx.Point(1886, 77)
+01-16 19:42:39 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 498:Dialog position: wx.Point(1447, 77)
+01-16 19:43:03 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 321:User canceled the dialog

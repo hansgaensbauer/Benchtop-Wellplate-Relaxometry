@@ -1,0 +1,3 @@
+*SRC=RH04;DI_RH04;Diodes;Si;  400V  0.500A  150ns   Diodes Inc. Fast Recovery Bridge Rectifier, per node
+.MODEL RH04 D  ( IS=2.25n RS=0.100 BV=400 IBV=5.00u
++ CJO=24.0p  M=0.333 N=1.70 TT=216n )
